@@ -1,0 +1,35 @@
+﻿  main.cpp
+f:\winapi exam\tatris\win2\basicdata.h(88): warning C4099: 'FigurePosit': type name first seen using 'struct' now seen using 'class'
+  f:\winapi exam\tatris\win2\basicdata.h(15): note: see declaration of 'FigurePosit'
+f:\winapi exam\tatris\win2\main.cpp(29): warning C4099: 'BasicFunctional': type name first seen using 'struct' now seen using 'class'
+  f:\winapi exam\tatris\win2\basicfunctional.h(8): note: see declaration of 'BasicFunctional'
+f:\winapi exam\tatris\win2\main.cpp(31): warning C4099: 'BasicFunctional': type name first seen using 'struct' now seen using 'class'
+  f:\winapi exam\tatris\win2\basicfunctional.h(8): note: see declaration of 'BasicFunctional'
+f:\winapi exam\tatris\win2\main.cpp(33): warning C4099: 'BasicFunctional': type name first seen using 'struct' now seen using 'class'
+  f:\winapi exam\tatris\win2\basicfunctional.h(8): note: see declaration of 'BasicFunctional'
+f:\winapi exam\tatris\win2\main.cpp(35): warning C4099: 'BasicFunctional': type name first seen using 'struct' now seen using 'class'
+  f:\winapi exam\tatris\win2\basicfunctional.h(8): note: see declaration of 'BasicFunctional'
+f:\winapi exam\tatris\win2\main.cpp(37): warning C4099: 'BasicFunctional': type name first seen using 'struct' now seen using 'class'
+  f:\winapi exam\tatris\win2\basicfunctional.h(8): note: see declaration of 'BasicFunctional'
+f:\winapi exam\tatris\win2\main.cpp(200): warning C4099: 'BasicFunctional': type name first seen using 'struct' now seen using 'class'
+  f:\winapi exam\tatris\win2\basicfunctional.h(8): note: see declaration of 'BasicFunctional'
+f:\winapi exam\tatris\win2\main.cpp(245): warning C4099: 'BasicFunctional': type name first seen using 'struct' now seen using 'class'
+  f:\winapi exam\tatris\win2\basicfunctional.h(8): note: see declaration of 'BasicFunctional'
+f:\winapi exam\tatris\win2\main.cpp(316): warning C4099: 'BasicFunctional': type name first seen using 'struct' now seen using 'class'
+  f:\winapi exam\tatris\win2\basicfunctional.h(8): note: see declaration of 'BasicFunctional'
+f:\winapi exam\tatris\win2\main.cpp(385): warning C4099: 'BasicFunctional': type name first seen using 'struct' now seen using 'class'
+  f:\winapi exam\tatris\win2\basicfunctional.h(8): note: see declaration of 'BasicFunctional'
+f:\winapi exam\tatris\win2\main.cpp(494): warning C4099: 'BasicFunctional': type name first seen using 'struct' now seen using 'class'
+  f:\winapi exam\tatris\win2\basicfunctional.h(8): note: see declaration of 'BasicFunctional'
+  BasicFunctional.cpp
+f:\winapi exam\tatris\win2\basicdata.h(88): warning C4099: 'FigurePosit': type name first seen using 'struct' now seen using 'class'
+  f:\winapi exam\tatris\win2\basicdata.h(15): note: see declaration of 'FigurePosit'
+f:\winapi exam\tatris\win2\basicfunctional.cpp(47): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  BasicData.cpp
+f:\winapi exam\tatris\win2\basicdata.h(88): warning C4099: 'FigurePosit': type name first seen using 'struct' now seen using 'class'
+  f:\winapi exam\tatris\win2\basicdata.h(15): note: see declaration of 'FigurePosit'
+  Generating Code...
+  
+Win2.rc(70): error RC2135: file not found: C:\Users\Roman\Desktop\
+Win2.rc(72): error RC2135: file not found: C:\Users\Roman\Desktop\
+Win2.rc(74): error RC2135: file not found: C:\Users\Roman\Desktop\

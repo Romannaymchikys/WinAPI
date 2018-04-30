@@ -1,0 +1,4 @@
+﻿  main.cpp
+c:\users\roman\desktop\win2\win2\main.cpp(25): warning C4101: 'tm': unreferenced local variable
+  Win2.vcxproj -> C:\Users\Roman\Desktop\Win2\Debug\Win2.exe
+  Win2.vcxproj -> C:\Users\Roman\Desktop\Win2\Debug\Win2.pdb (Full PDB)
